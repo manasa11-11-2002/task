@@ -9,5 +9,5 @@ import { NavbarComponent } from './navbar/navbar.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'app-task';
+  title = 'app1-task';
 }
